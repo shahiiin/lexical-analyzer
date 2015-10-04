@@ -1,5 +1,7 @@
 # lexical-analyzer
 simple lexical analyzer <br />
+yacc is required <br />
+commands: <br />
 lex a.l <br /> 
 yacc -d <br />
 a.y <br /> 
